@@ -1,4 +1,4 @@
-# **BIM INDEX CALCULATOR**
+# **BMI INDEX CALCULATOR**
 ---
 #### Video Demo: [link](https://youtu.be/a2ys34K-p4A)
 ---
